@@ -3,31 +3,28 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;I+build+things+for+the+web;JavaScript+%2F+TypeScript;Always+learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Building+premium+software;Web+%26+Desktop+Apps;Security+%26+UI%2FUX" />
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=2400&auto=format&fit=crop" width="100%" style="border-radius:12px;" />
+  <img src="https://images.unsplash.com/photo-1618044733300-9472054094ee?q=80&w=2400&h=600&auto=format&fit=crop" width="100%" style="border-radius:12px;" alt="Minimalist Dark Tech Banner" />
 </p>
 
 ---
 
 ## About Me
 
-```txt
-Full stack developer focused on building fast and clean web apps.
+I'm a software developer focused on engineering secure, high-performance applications with a premium, minimalist UI/UX.
 
-I mainly work with the JavaScript ecosystem, but I like exploring
-different technologies when it makes sense.
+My work spans across the full stack—from modern web platforms to robust desktop applications. I prioritize clean architectures, offline-first capabilities where it matters, and writing code that is as scalable on the backend as it is polished on the frontend.
 
-I care about performance, good design and writing code that actually scales.
-
-Currently learning, building and improving every day.
-```
+* **What I do:** Build fast, highly-crafted software using tools like Next.js, TypeScript, and Electron.
+* **My philosophy:** Good design isn't just visual; it's about seamless user experiences backed by solid, secure logic.
+* **Always exploring:** Modern architectures, low-level performance improvements, and bridging the gap between aesthetics and serious technical depth.
 
 ---
 
-## Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,mysql,git,github,docker,java,python,electron" />
@@ -38,9 +35,9 @@ Currently learning, building and improving every day.
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardosalasd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardosalasd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF"/>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardosalasd&theme=react-dark&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardosalasd&theme=tokyo-night&hide_border=true&area=true&color=00F7FF"/>
 </p>
 
 ---
