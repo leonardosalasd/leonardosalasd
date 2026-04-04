@@ -35,8 +35,6 @@ My work spans across the full stack—from modern web platforms to robust deskto
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardosalasd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF"/>
-  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardosalasd&theme=tokyo-night&hide_border=true&area=true&color=00F7FF"/>
 </p>
 
