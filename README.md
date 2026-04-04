@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=2400&h=600&auto=format&fit=crop" width="100%" style="border-radius:12px;" alt="Premium Dark Space Banner" />
+  <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=2400&h=600&auto=format&fit=crop" width="100%" style="border-radius:12px;" alt="High-end Tech Banner" />
 </p>
 
 ---
