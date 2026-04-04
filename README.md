@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm <a href="https://leonardosalas.dev" target="_blank">Leonardo Salas</a>
+  Hi, I'm <a href="https://leonardosalas.dev" target="_blank">Leonardo Salas</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="Waving hand">
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1618044733300-9472054094ee?q=80&w=2400&h=600&auto=format&fit=crop" width="100%" style="border-radius:12px;" alt="Minimalist Dark Tech Banner" />
+  <img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=2400&h=600&auto=format&fit=crop" width="100%" style="border-radius:12px;" alt="Premium Dark Space Banner" />
 </p>
 
 ---
