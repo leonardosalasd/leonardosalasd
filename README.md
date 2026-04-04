@@ -3,16 +3,31 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;JavaScript+Specialist;Building+cool+things;Always+learning" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header&text=Welcome&fontColor=00F7FF&fontSize=30&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+Specialist;Building+cool+things;Always+learning+new+tech" />
 </p>
 
 ---
 
-## ⚡ Tech Stack
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=2000&auto=format&fit=crop" width="100%" height="200px" style="object-fit:cover; border-radius:12px;" />
+</p>
+
+---
+
+## 🧠 About Me
+
+```txt
+💻 Full Stack Developer focused on modern web apps
+⚡ I work mainly with JavaScript ecosystem
+🚀 I like building fast, scalable and clean projects
+🧠 Always learning new technologies and improving
+🌌 Love futuristic, minimal and high-performance design
+☕ Coffee + Code = Productivity
+```
+
+---
+
+## ⚙️ Stack + Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,mysql,git,github,docker,java,python,electron" />
@@ -20,18 +35,11 @@
 
 ---
 
-## 📊 Stats
+## 📊 Live Stats + Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117"/>
-</p>
-
----
-
-## 🧠 Activity
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardosalasd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardosalasd&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
@@ -40,15 +48,20 @@
 ## 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/leonardosalasd/leonardosalasd/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-## 🟢 Matrix Vibes
+## 🌌 Extra Animations
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut1y5y/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="620"/>
 </p>
 
 ---
@@ -57,20 +70,12 @@
 
 <p align="center">
   <a href="mailto:leonardo.salas01@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Business-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Business%20Contact-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 👀 Visitors
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leonardosalasd&color=00F7FF&style=flat"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:001F3F&height=120&section=footer"/>
 </p>
