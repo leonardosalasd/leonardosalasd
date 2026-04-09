@@ -48,6 +48,23 @@ My work spans across the full stack—from modern web platforms to robust deskto
 
 ---
 
+## Support my Open Source Journey
+
+If you find my tools useful and want to support the development of secure software designed to work offline, please consider becoming a sponsor. Your support helps maintain the projects' infrastructure.
+
+
+<p align="center">
+  <a href="https://github.com/sponsors/leonardosalasd">
+    <img src="https://img.shields.io/badge/Sponsor-leonardosalasd-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Leonardo Salas" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/leonardosalasd/leonardosalasd/sponsors/sponsors.svg" alt="Sponsors List" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:001F3F&height=110&section=footer"/>
 </p>
