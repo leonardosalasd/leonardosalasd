@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hii, I'm <a href="https://leonardosalas.dev" target="_blank">Leonardo Salas</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="Waving hand">
+  Hi, I'm <a href="https://leonardosalas.dev" target="_blank">Leonardo Salas</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="Waving hand">
 </h1>
 
 <p align="center">
