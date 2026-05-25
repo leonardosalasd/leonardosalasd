@@ -26,9 +26,7 @@ My work spans across the full stack—from modern web platforms to robust deskto
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,mysql,git,github,docker,java,python,electron" />
-</p>
+
 
 ---
 
