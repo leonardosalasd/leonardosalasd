@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm <a href="https://leonardosalas.dev" target="_blank">Leonardo Salas</a>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="Waving hand">
+  Hi, I'm <a href="https://leonardosalas.dev" target="_blank">Leonardo Salas</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="Waving hand">
 </h1>
 
 <p align="center">
@@ -7,40 +7,32 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=2400&h=600&auto=format&fit=crop" width="100%" style="border-radius:12px;" alt="High-end Tech Banner" />
+  <img src="https://images.unsplash.com/photo-1709625862266-014ef072fd93?q=80&w=2400&h=600&fit=crop&auto=format" width="100%" alt="Dark abstract background" />
 </p>
 
 ---
 
 ## About Me
 
-I'm a software developer focused on engineering secure, high-performance applications with a premium, minimalist UI/UX.
+I’m a Software Developer and Computer Science student passionate about building high-performance applications and CLI tools to automate and streamline workflows.
 
-My work spans across the full stack—from modern web platforms to robust desktop applications. I prioritize clean architectures, offline-first capabilities where it matters, and writing code that is as scalable on the backend as it is polished on the frontend.
+My work spans the full stack—from scalable web platforms to native applications and developer CLI tools. I focus on security by design, refined UI/UX, and robust CI/CD pipelines, always prioritizing offline-first architecture whenever possible.
 
-* **What I do:** Build fast, highly-crafted software using tools like Next.js, TypeScript, and Electron.
-* **My philosophy:** Good design isn't just visual; it's about seamless user experiences backed by solid, secure logic.
-* **Always exploring:** Modern architectures, low-level performance improvements, and bridging the gap between aesthetics and serious technical depth.
-
----
-
-## Tech Stack
+<br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,mysql,git,docker,java,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,html,css,tailwind,mysql,git,docker" />
 </p>
 
 ---
 
-## Activity
+## Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardosalasd&theme=tokyo-night&hide_border=true&area=true&color=00F7FF"/>
-</p>
+* [**doc-engine-cli**](https://github.com/leonardosalasd/doc-engine-cli) ⭐️37
+
+  A high-performance CLI to transform Markdown into premium, academic-grade PDFs via Typst. Zero configuration required.
 
 ---
-
-## Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/leonardosalasd/leonardosalasd/output/github-contribution-grid-snake-dark.svg"/>
@@ -50,8 +42,7 @@ My work spans across the full stack—from modern web platforms to robust deskto
 
 ## Support my Open Source Journey
 
-If you find my tools useful and want to support the development of secure software designed to work offline, please consider becoming a sponsor. Your support helps maintain the projects' infrastructure.
-
+If you find my tools useful and would like to support their ongoing development, maintenance, and my university studies, please consider becoming a sponsor. You will get exclusive perks and your name will be featured in my profile README and my projects' repositories.
 
 <p align="center">
   <a href="https://github.com/sponsors/leonardosalasd">
@@ -59,12 +50,3 @@ If you find my tools useful and want to support the development of secure softwa
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/leonardosalasd/leonardosalasd/sponsors/sponsors.svg" alt="Sponsors List" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:001F3F&height=110&section=footer"/>
-</p>
