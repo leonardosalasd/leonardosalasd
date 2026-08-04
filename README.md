@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1709625862266-014ef072fd93?q=80&w=2400&h=600&fit=crop&auto=format" width="100%" alt="Dark abstract background" />
+  <img src="https://images.unsplash.com/photo-1568733873715-f9d497a47ea0?q=80&w=2400&h=600&fit=crop&auto=format" width="100%" alt="Dark abstract background" />
 </p>
 
 ---
@@ -28,7 +28,7 @@ My work spans the full stack—from scalable web platforms to native application
 
 ## Featured Projects
 
-* [**doc-engine-cli**](https://github.com/leonardosalasd/doc-engine-cli) ⭐️37
+* [**doc-engine-cli**](https://github.com/leonardosalasd/doc-engine-cli) ⭐️ 40
 
   A high-performance CLI to transform Markdown into premium, academic-grade PDFs via Typst. Zero configuration required.
 
