@@ -21,7 +21,7 @@ My work spans the full stack—from scalable web platforms to native application
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,html,css,tailwind,mysql,git,docker" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css,tailwind,mysql,git,docker" />
 </p>
 
 ---
