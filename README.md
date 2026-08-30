@@ -28,7 +28,7 @@ My work spans the full stack—from scalable web platforms to native application
 
 ## Featured Projects
 
-* [**doc-engine-cli**](https://github.com/leonardosalasd/doc-engine-cli) ⭐️ 40
+* [**doc-engine-cli**](https://github.com/leonardosalasd/doc-engine-cli) ⭐️ 44
 
   A high-performance CLI to transform Markdown into premium, academic-grade PDFs via Typst. Zero configuration required.
 
