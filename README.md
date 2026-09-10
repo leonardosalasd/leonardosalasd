@@ -28,7 +28,7 @@ My work spans the full stack—from scalable web platforms to native application
 
 ## Featured Projects
 
-* [**doc-engine-cli**](https://github.com/leonardosalasd/doc-engine-cli) ⭐️ 45
+* [**doc-engine-cli**](https://github.com/leonardosalasd/doc-engine-cli) ⭐️ 46
   <br>A high-performance CLI to transform Markdown into premium, academic-grade PDFs via Typst. Zero configuration required.
 
 * [**regolith-water-loop**](https://github.com/leonardosalasd/regolith-water-loop)
