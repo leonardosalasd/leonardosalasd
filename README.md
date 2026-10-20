@@ -3,25 +3,23 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Cybersecurity+Focus;Desktop+%26+Web+Apps;Offline-First+%26+Secure" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=550&lines=Python+Developer;CLI+Tools" />
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1568733873715-f9d497a47ea0?q=80&w=2400&h=600&fit=crop&auto=format" width="100%" alt="Dark abstract background" />
+  <img src="https://images.unsplash.com/photo-1568733873715-f9d497a47ea0?q=80&w=2400&h=600&fit=crop&auto=format"  alt="Dark abstract background" />
 </p>
 
 ---
 
 ## About Me
 
-I’m a Software Developer and Computer Science student passionate about building high-performance applications and CLI tools to automate and streamline workflows.
+I used to try to cover full-stack; now, I only focus on what interests me.
 
-My work spans the full stack—from scalable web platforms to native applications and developer CLI tools. I focus on security by design, refined UI/UX, and robust CI/CD pipelines, always prioritizing offline-first architecture whenever possible.
-
-<br>
+Software developer and Python programmer. I typically build CLI tools to streamline workflows and improve user experiences. I occasionally work on hardware projects, too—though I end up adding a CLI to everything, haha! 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css,tailwind,mysql,git,docker" />
+<img src="https://skillicons.dev/icons?i=python,docker,githubactions" width="px" alt="python-logo"/>
 </p>
 
 ---
@@ -29,10 +27,10 @@ My work spans the full stack—from scalable web platforms to native application
 ## Featured Projects
 
 * [**doc-engine-cli**](https://github.com/leonardosalasd/doc-engine-cli) ⭐️ 47
-  <br>A high-performance CLI to transform Markdown into premium, academic-grade PDFs via Typst. Zero configuration required.
+  <br>A Python CLI that transforms any `.md` file into academic PDFs using Typst — simple, pretty, and configurable.
 
 * [**regolith-water-loop**](https://github.com/leonardosalasd/regolith-water-loop)
-  <br>Three-stage water pre-treatment column for a Mars habitat: bioremediated regolith, pyrolysis biochar, and live sensor telemetry. Bench-built and measured
+  <br>Three-stage water pre-treatment column for a Mars habitat. Bench-built and measured
 
 ---
 
@@ -44,7 +42,7 @@ My work spans the full stack—from scalable web platforms to native application
 
 ## Support my Open Source Journey
 
-If you find my tools useful and would like to support their ongoing development, maintenance, and my university studies, please consider becoming a sponsor. You will get exclusive perks and your name will be featured in my profile README and my projects' repositories.
+If any of my tools or projects have been useful to you, please consider supporting me; it would be a great help with my university studies, and I’ll add your PFP to my repos
 
 <p align="center">
   <a href="https://github.com/sponsors/leonardosalasd">
