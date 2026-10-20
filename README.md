@@ -30,7 +30,7 @@ Software developer and Python programmer. I typically build CLI tools to streaml
   <br>A Python CLI that transforms any `.md` file into academic PDFs using Typst — simple, pretty, and configurable.
 
 * [**regolith-water-loop**](https://github.com/leonardosalasd/regolith-water-loop)
-  <br>Three-stage water pre-treatment column for a Mars habitat. Bench-built and measured
+  <br>Three-stage water pre-treatment column for a Mars habitat. Bench-built and measured.
 
 ---
 
